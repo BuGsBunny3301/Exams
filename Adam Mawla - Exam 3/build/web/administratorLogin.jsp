@@ -34,7 +34,7 @@
                             if(set.getString("username").equals(request.getParameter("username"))
                                && set.getString("password").equals(request.getParameter("password"))){
                                 
-                                response.sendRedirect("administratorHome.jsp");
+                                response.sendRedirect("administratorHome.jsp?a=b");
                             }
                         }while(set.next());
                     }
