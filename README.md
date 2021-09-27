@@ -1,5 +1,5 @@
 # Exams
-i put my shitty uni exams in here for others to see (solutions might not be correct)
+i put my uni exams in here for others to see 
 
 I don't really care what you do with this content, it's honestly your future not mine.
 You can copy the exams in the labs of you uni, or you can just read them to see the spaghetti code that i create 
